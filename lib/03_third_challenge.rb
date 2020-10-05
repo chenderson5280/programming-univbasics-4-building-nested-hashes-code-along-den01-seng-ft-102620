@@ -5,8 +5,8 @@ def third_challenge
                       :age => "53"
         #your key/value pairs here
         },
-      :matriarch => {:name => "",
-                      :age => ""
+      :matriarch => {:name => "Lady Montague",
+                      :age => "54"
         #your key/value pairs here
         },
       :hero => {:name => "",
