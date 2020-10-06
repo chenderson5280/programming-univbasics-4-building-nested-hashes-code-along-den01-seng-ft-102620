@@ -14,8 +14,8 @@ def third_challenge
                 :status => "alive"
         #your key/value pairs here
         },
-      :hero_friends => [{:age=>"17", 
-                         :attitude=>"worried", 
+      :hero_friends => [{:age=>"17",
+                         :attitude=>"worried",
                          :name=>"Benvolio"}, {:age=>"18", :attitude=>"hot-headed", :name=>"Mercutio"}]
    },
    :capulet => {
